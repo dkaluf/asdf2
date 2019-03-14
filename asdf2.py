@@ -9,7 +9,68 @@ num8 = int(input("Enter number 8: "))
 num9 = int(input("Enter number 9: "))      
 num10 = int(input("Enter number 10: "))
 
+while num1 < 0:
+    num1 = int(input("Enter number 1: "))
+
+while num1 > 1000:
+    num1 = int(input("Enter number 1: "))
+           
+while num2 < 0:
+    num2 = int(input("Enter number 2: "))
+
+while num2 > 1000:
+    num2 = int(input("Enter number 2: "))
+           
+while num3 < 0:
+    num3 = int(input("Enter number 3: "))
+
+while num3 > 1000:
+    num3 = int(input("Enter number 3: "))
+           
+while num4 < 0:
+    num4 = int(input("Enter number 4: "))
+
+while num4 > 1000:
+    num4 = int(input("Enter number 4: "))
+           
+while num5 < 0:
+    num5 = int(input("Enter number 5: "))
+
+while num5 > 1000:
+    num5 = int(input("Enter number 5: "))
+	
+while num6 < 0:
+    num6 = int(input("Enter number 6: "))
+
+while num6 > 1000:
+    num6 = int(input("Enter number 6: "))
+           
+while num7 < 0:
+    num7 = int(input("Enter number 7: "))
+
+while num7 > 1000:
+    num7 = int(input("Enter number 7: "))
+           
+while num8 < 0:
+    num8 = int(input("Enter number 8: "))
+
+while num8 > 1000:
+    num8 = int(input("Enter number 8: "))
+           
+while num9 < 0:
+    num9 = int(input("Enter number 9: "))
+
+while num9 > 1000:
+    num9 = int(input("Enter number 9: "))
+           
+while num10 < 0:
+    num5 = int(input("Enter number 10: "))
+
+while num10 > 1000:
+    num10 = int(input("Enter number 10: "))
+
 max = num1
+
 if num2 > max:
     max = num2
 
@@ -37,7 +98,9 @@ if num9 > max:
 if num10 > max:
     max = num10
 
+
 min = num1
+
 if num2 < min:
     min = num2
 
